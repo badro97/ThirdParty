@@ -68,7 +68,7 @@
 
 
         - 공적마스크 판매처 및 재고 현황 조회 API 서비스  
-        https://8oi9s0nnth.apigw.ntruss.com/corona19-masks/v1
+        https://data.go.kr/data/15057622/openapi.do
 
 
 
